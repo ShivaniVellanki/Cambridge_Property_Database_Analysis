@@ -1,2 +1,10 @@
 # Cambridge_Property_Database_Analysis
 The Cambridge Property Database Analysis leverages Tableau and Qlik for an in-depth examination of property assessments from FY 2016-2021.
+
+The project, titled "Cambridge Property Database Analysis," encompasses two comprehensive versions that delve into the intricacies of property assessments within Cambridge for the fiscal years 2016 through 2021. This initiative undertakes a rigorous examination of a vast array of property details—ranging from building values, land values, sales prices, assessed prices, to more granular features such as land acreage, flooring types, and interior living areas.
+
+Version 1 of the analysis presents an insightful exploration using Tableau for data visualization, offering stakeholders a visual representation of the statistical significance of various variables. It provides an in-depth look into the linear increase in building values over the years, highlights the top property classes by sale price with condominiums leading the pack, explores the tax districts with the highest land values for properties with electric or gas heating systems, and identifies zones with the largest interior living areas with at least two full baths.
+
+Version 2 advances the analysis by incorporating Qlik for visualization, focusing on the popular property class of condominiums. It examines the average assessed values and sales prices over the years, the average sales price variations by the number of bedrooms, and identifies tax districts with the lowest property taxes for condominiums. This version serves to equip real estate companies, prospective clients, and developers with critical insights for informed decision-making regarding market values, property taxes, and preferable property features.
+
+The project not only highlights the dynamic nature of Cambridge's real estate market but also showcases the power of advanced data visualization tools in extracting meaningful insights from complex datasets. Through these analyses, stakeholders are better positioned to understand market trends, evaluate property values, and make strategic decisions in the real estate sector.
